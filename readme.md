@@ -1,4 +1,7 @@
-#Unified hosts file with base extensions
+# This is a fork of StevenBlack's hosts files
+If you want to get the latest version, you should see the main repository. 
+
+# Unified hosts file with base extensions
 
 This repository consolidates several reputable `hosts` files, and merges them
 into a unified hosts file with duplicates removed.  This repo provides several
